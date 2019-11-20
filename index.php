@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	<h3>Edit One</h3>
+	<h3>Edit Two</h3>
 
 	<table>
 		<tr>
